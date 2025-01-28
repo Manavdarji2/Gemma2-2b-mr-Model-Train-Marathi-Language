@@ -20,7 +20,7 @@ This is the model train in the Marathi Language. Model i have use gemma2-2b-en m
   <tr>
     <td>Vidhaan Das</td>
     <td>vidhaandas</td>
-    <td>None</td>
+    <td>VidhaanDas</td>
   </tr>
   <tr>
     <td>Renuka Mane</td>
